@@ -1,0 +1,180 @@
+[
+  {
+    "title": "What is React?",
+    "answer_1": "A programming language",
+    "answer_2": "A server-side framework",
+    "answer_3": "A front-end JavaScript library",
+    "answer_4": "A database management system",
+    "right_answer": "A front-end JavaScript library"
+  },
+
+  {
+    "title": "What is JSX in React?",
+    "answer_1": "A JavaScript syntax extension",
+    "answer_2": "A server-side rendering technique",
+    "answer_3": "A CSS preprocessor",
+    "answer_4": "A state management library",
+    "right_answer": "A JavaScript syntax extension"
+  },
+
+  {
+    "title": "What is the purpose of React components?",
+    "answer_1": "To style web pages",
+    "answer_2": "To define the structure of an HTML document",
+    "answer_3": "To create reusable UI elements",
+    "answer_4": "To handle server-side logic",
+    "right_answer": "To create reusable UI elements"
+  },
+
+  {
+    "title": "In React, what is the significance of the 'state'?",
+    "answer_1": "It stores the data that can be changed over time",
+    "answer_2": "It defines the initial properties of a component",
+    "answer_3": "It specifies the layout of the component",
+    "answer_4": "It handles server requests",
+    "right_answer": "It stores the data that can be changed over time"
+  },
+
+  {
+    "title": "What is the purpose of the 'props' in React?",
+    "answer_1": "To define the layout of a component",
+    "answer_2": "To handle events in a component",
+    "answer_3": "To pass data between components",
+    "answer_4": "To style components",
+    "right_answer": "To pass data between components"
+  },
+
+  {
+    "title": "What is the virtual DOM in React?",
+    "answer_1": "An imaginary representation of the browser's Document Object Model",
+    "answer_2": "A testing library for React components",
+    "answer_3": "A state management tool",
+    "answer_4": "A component lifecycle method",
+    "right_answer": "An imaginary representation of the browser's Document Object Model"
+  },
+
+  {
+    "title": "What is a React component lifecycle method?",
+    "answer_1": "A method to create a new component",
+    "answer_2": "A method to update the component state",
+    "answer_3": "A method to manage the lifecycle of a component",
+    "answer_4": "A method to render JSX",
+    "right_answer": "A method to manage the lifecycle of a component"
+  },
+
+  {
+    "title": "What is the purpose of the 'render()' method in a React component?",
+    "answer_1": "To define the component's initial state",
+    "answer_2": "To handle events in the component",
+    "answer_3": "To render the component's UI",
+    "answer_4": "To manage component lifecycle",
+    "right_answer": "To render the component's UI"
+  },
+
+  {
+    "title": "What is React Router used for?",
+    "answer_1": "To manage component state",
+    "answer_2": "To handle HTTP requests",
+    "answer_3": "To create routes and navigation in a React app",
+    "answer_4": "To manage server-side rendering",
+    "right_answer": "To create routes and navigation in a React app"
+  },
+
+  {
+    "title": "What is the purpose of the 'setState()' method in React?",
+    "answer_1": "To define the initial state of a component",
+    "answer_2": "To update the component's state and trigger a re-render",
+    "answer_3": "To handle form submissions",
+    "answer_4": "To define the layout of a component",
+    "right_answer": "To update the component's state and trigger a re-render"
+  },
+
+  {
+    "title": "What are React Hooks?",
+    "answer_1": "Functional components in React",
+    "answer_2": "A way to write class components",
+    "answer_3": "Functions that let you use state and other React features in functional components",
+    "answer_4": "A form of CSS styling in React",
+    "right_answer": "Functions that let you use state and other React features in functional components"
+  },
+
+  {
+    "title": "What is the purpose of the 'useEffect()' hook in React?",
+    "answer_1": "To handle user interactions",
+    "answer_2": "To perform side effects in functional components",
+    "answer_3": "To define component state",
+    "answer_4": "To create a new component",
+    "right_answer": "To perform side effects in functional components"
+  },
+
+  {
+    "title": "What is the role of 'Redux' in a React application?",
+    "answer_1": "To manage component state",
+    "answer_2": "To create animations in React",
+    "answer_3": "To manage the global state of an application",
+    "answer_4": "To handle HTTP requests",
+    "right_answer": "To manage the global state of an application"
+  },
+
+  {
+    "title": "What is the purpose of the 'key' prop in React lists?",
+    "answer_1": "To define the order of list items",
+    "answer_2": "To provide a unique identifier for each list item",
+    "answer_3": "To apply styles to list items",
+    "answer_4": "To create nested lists",
+    "right_answer": "To provide a unique identifier for each list item"
+  },
+
+  {
+    "title": "What is the significance of the 'Context API' in React?",
+    "answer_1": "To handle forms in React",
+    "answer_2": "To create global state accessible to all components",
+    "answer_3": "To manage component lifecycle",
+    "answer_4": "To define the layout of a component",
+    "right_answer": "To create global state accessible to all components"
+  },
+
+  {
+    "title": "What is the purpose of the 'Fragment' in React?",
+    "answer_1": "To create a new React component",
+    "answer_2": "To group multiple elements without adding an extra node to the DOM",
+    "answer_3": "To manage component state",
+    "answer_4": "To handle HTTP requests",
+    "right_answer": "To group multiple elements without adding an extra node to the DOM"
+  },
+  {
+    "title": "What is the purpose of the 'componentDidMount()' lifecycle method in a React class component?",
+    "answer_1": "To update the component state",
+    "answer_2": "To handle events",
+    "answer_3": "To perform actions after the component has been initially rendered",
+    "answer_4": "To define the layout of the component",
+    "right_answer": "To perform actions after the component has been initially rendered"
+  },
+
+  {
+    "title": "What is the role of 'React Router DOM' in a React application?",
+    "answer_1": "To handle HTTP requests",
+    "answer_2": "To create global state accessible to all components",
+    "answer_3": "To manage navigation and routing in a React app",
+    "answer_4": "To define the initial state of a component",
+    "right_answer": "To manage navigation and routing in a React app"
+  },
+
+  {
+    "title": "What is the purpose of the 'propTypes' feature in React?",
+    "answer_1": "To set the default props for a component",
+    "answer_2": "To define the data types of a component's props",
+    "answer_3": "To create a stateful component",
+    "answer_4": "To manage global state",
+    "right_answer": "To define the data types of a component's props"
+  },
+
+  {
+    "title": "What is a 'React Hook'?",
+    "answer_1": "A function that allows you to use state and other React features in functional components",
+    "answer_2": "A type of class component in React",
+    "answer_3": "A way to handle form submissions in React",
+    "answer_4": "A method to define the initial state of a component",
+    "right_answer": "A function that allows you to use state and other React features in functional components"
+  }
+]

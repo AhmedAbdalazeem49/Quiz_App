@@ -1,0 +1,179 @@
+[
+  {
+    "title": "What we use <br> for ?",
+    "answer_1": "To Make the text bold",
+    "answer_2": "To Make the text Italic",
+    "answer_3": "To Make break line",
+    "answer_4": "To Make horizontal line",
+    "right_answer": "To Make break line"
+  },
+  {
+    "title": "What does HTML stand for?",
+    "answer_1": "HyperText Markup Language",
+    "answer_2": "High-Level Text Management Language",
+    "answer_3": "Hyperlink and Text Management Language",
+    "answer_4": "HyperTransfer Markup Language",
+    "right_answer": "HyperText Markup Language"
+  },
+  {
+    "title": "Which HTML tag is used for creating hyperlinks?",
+    "answer_1": "<link>",
+    "answer_2": "<a>",
+    "answer_3": "<hlink>",
+    "answer_4": "<hyperlink>",
+    "right_answer": "<a>"
+  },
+
+  {
+    "title": "What is the purpose of the HTML <head> tag?",
+    "answer_1": "To define the main content of the page",
+    "answer_2": "To contain metadata about the document",
+    "answer_3": "To create a header section",
+    "answer_4": "To specify the font style",
+    "right_answer": "To contain metadata about the document"
+  },
+
+  {
+    "title": "Which HTML tag is used to define the structure of an HTML document?",
+    "answer_1": "<body>",
+    "answer_2": "<structure>",
+    "answer_3": "<html>",
+    "answer_4": "<document>",
+    "right_answer": "<html>"
+  },
+
+  {
+    "title": "What is the purpose of the HTML <footer> tag?",
+    "answer_1": "To create a footer section",
+    "answer_2": "To define a navigation menu",
+    "answer_3": "To indicate the end of the document",
+    "answer_4": "To specify a font color",
+    "right_answer": "To create a footer section"
+  },
+
+  {
+    "title": "Which HTML tag is used for adding an image to a webpage?",
+    "answer_1": "<img>",
+    "answer_2": "<picture>",
+    "answer_3": "<image>",
+    "answer_4": "<photo>",
+    "right_answer": "<img>"
+  },
+
+  {
+    "title": "What does the HTML acronym DOCTYPE stand for?",
+    "answer_1": "Document Type",
+    "answer_2": "Document Text",
+    "answer_3": "Document Code",
+    "answer_4": "Document Template",
+    "right_answer": "Document Type"
+  },
+
+  {
+    "title": "Which HTML tag is used for creating an unordered list?",
+    "answer_1": "<ul>",
+    "answer_2": "<ol>",
+    "answer_3": "<li>",
+    "answer_4": "<list>",
+    "right_answer": "<ul>"
+  },
+
+  {
+    "title": "What is the purpose of the HTML <table> tag?",
+    "answer_1": "To create a form",
+    "answer_2": "To define a table",
+    "answer_3": "To insert an image",
+    "answer_4": "To apply styles to text",
+    "right_answer": "To define a table"
+  },
+
+  {
+    "title": "Which HTML attribute is used to specify the alternative text for an image?",
+    "answer_1": "alt",
+    "answer_2": "text",
+    "answer_3": "description",
+    "answer_4": "img-alt",
+    "right_answer": "alt"
+  },
+
+  {
+    "title": "What is the purpose of the HTML <form> tag?",
+    "answer_1": "To create a table",
+    "answer_2": "To define a form",
+    "answer_3": "To insert a hyperlink",
+    "answer_4": "To apply styles to text",
+    "right_answer": "To define a form"
+  },
+
+  {
+    "title": "Which HTML tag is used for creating a hyperlink?",
+    "answer_1": "<url>",
+    "answer_2": "<link>",
+    "answer_3": "<a>",
+    "answer_4": "<hyper>",
+    "right_answer": "<a>"
+  },
+
+  {
+    "title": "What is the purpose of the HTML <iframe> tag?",
+    "answer_1": "To insert a video",
+    "answer_2": "To create an inline frame",
+    "answer_3": "To define a form",
+    "answer_4": "To apply styles to text",
+    "right_answer": "To create an inline frame"
+  },
+
+  {
+    "title": "Which HTML tag is used for defining the title of a webpage?",
+    "answer_1": "<header>",
+    "answer_2": "<title>",
+    "answer_3": "<heading>",
+    "answer_4": "<h1>",
+    "right_answer": "<title>"
+  },
+
+  {
+    "title": "What is the purpose of the HTML <nav> tag?",
+    "answer_1": "To create navigation links",
+    "answer_2": "To define a navigation menu",
+    "answer_3": "To insert a video",
+    "answer_4": "To apply styles to text",
+    "right_answer": "To define a navigation menu"
+  },
+
+  {
+    "title": "Which HTML tag is used for creating a button?",
+    "answer_1": "<btn>",
+    "answer_2": "<button>",
+    "answer_3": "<click>",
+    "answer_4": "<submit>",
+    "right_answer": "<button>"
+  },
+
+  {
+    "title": "What is the purpose of the HTML <aside> tag?",
+    "answer_1": "To create a sidebar",
+    "answer_2": "To define a section of content",
+    "answer_3": "To insert an advertisement",
+    "answer_4": "To apply styles to text",
+    "right_answer": "To create a sidebar"
+  },
+
+  {
+    "title": "Which HTML tag is used for creating a line break?",
+    "answer_1": "<lb>",
+    "answer_2": "<newline>",
+    "answer_3": "<br>",
+    "answer_4": "<linebreak>",
+    "right_answer": "<br>"
+  },
+
+  {
+    "title": "What is the purpose of the HTML <code> tag?",
+    "answer_1": "To define a programming code",
+    "answer_2": "To create a section of text",
+    "answer_3": "To insert a video",
+    "answer_4": "To apply styles to text",
+    "right_answer": "To define a programming code"
+  }
+]

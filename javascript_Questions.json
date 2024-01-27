@@ -1,0 +1,178 @@
+[
+  {
+    "title": "What does 'DOM' stand for in JavaScript?",
+    "answer_1": "Document Object Model",
+    "answer_2": "Data Object Model",
+    "answer_3": "Dynamic Object Method",
+    "answer_4": "Document Order Management",
+    "right_answer": "Document Object Model"
+  },
+  {
+    "title": "Which keyword is used to declare a variable in JavaScript?",
+    "answer_1": "var",
+    "answer_2": "let",
+    "answer_3": "const",
+    "answer_4": "variable",
+    "right_answer": "var"
+  },
+
+  {
+    "title": "What is the purpose of the 'console.log()' function in JavaScript?",
+    "answer_1": "To log messages to the console for debugging",
+    "answer_2": "To define a new variable",
+    "answer_3": "To create a new HTML element",
+    "answer_4": "To display an alert message",
+    "right_answer": "To log messages to the console for debugging"
+  },
+
+  {
+    "title": "What is an 'if statement' used for in JavaScript?",
+    "answer_1": "To declare a function",
+    "answer_2": "To iterate over an array",
+    "answer_3": "To control the flow of a program based on a condition",
+    "answer_4": "To create a loop",
+    "right_answer": "To control the flow of a program based on a condition"
+  },
+  {
+    "title": "Which JavaScript method is used to add a new element to an HTML document?",
+    "answer_1": "createElement()",
+    "answer_2": "append()",
+    "answer_3": "addNode()",
+    "answer_4": "insertElement()",
+    "right_answer": "createElement()"
+  },
+  {
+    "title": "What is the purpose of the '=== operator' in JavaScript?",
+    "answer_1": "Checks for equality without type conversion",
+    "answer_2": "Assigns a value to a variable",
+    "answer_3": "Compares values with type conversion",
+    "answer_4": "Checks for strict inequality",
+    "right_answer": "Checks for equality without type conversion"
+  },
+
+  {
+    "title": "What does the 'localStorage' object in JavaScript do?",
+    "answer_1": "Stores data in a cookie",
+    "answer_2": "Allows asynchronous code execution",
+    "answer_3": "Stores data persistently on the client-side",
+    "answer_4": "Defines a local function",
+    "right_answer": "Stores data persistently on the client-side"
+  },
+
+  {
+    "title": "Which JavaScript function is used for asynchronous requests to a server?",
+    "answer_1": "fetch()",
+    "answer_2": "ajax()",
+    "answer_3": "xhr()",
+    "answer_4": "async()",
+    "right_answer": "fetch()"
+  },
+
+  {
+    "title": "What is the purpose of the 'map()' function in JavaScript?",
+    "answer_1": "To iterate over the elements of an array and modify them",
+    "answer_2": "To create a new array by filtering elements",
+    "answer_3": "To concatenate two arrays",
+    "answer_4": "To reverse the order of elements in an array",
+    "right_answer": "To iterate over the elements of an array and modify them"
+  },
+
+  {
+    "title": "How do you declare a function in JavaScript?",
+    "answer_1": "function myFunction()",
+    "answer_2": "var myFunction()",
+    "answer_3": "declare function myFunction()",
+    "answer_4": "function = myFunction()",
+    "right_answer": "function myFunction()"
+  },
+
+  {
+    "title": "What is the purpose of the 'try...catch' statement in JavaScript?",
+    "answer_1": "To define a loop",
+    "answer_2": "To handle errors and exceptions",
+    "answer_3": "To create an object",
+    "answer_4": "To declare a variable",
+    "right_answer": "To handle errors and exceptions"
+  },
+
+  {
+    "title": "Which JavaScript method is used to remove the last element from an array?",
+    "answer_1": "pop()",
+    "answer_2": "remove()",
+    "answer_3": "delete()",
+    "answer_4": "splice()",
+    "right_answer": "pop()"
+  },
+
+  {
+    "title": "What does the 'event.preventDefault()' method do in JavaScript?",
+    "answer_1": "Stops the browser from loading a new page",
+    "answer_2": "Prevents the execution of a function",
+    "answer_3": "Clears the browser cache",
+    "answer_4": "Stops event propagation",
+    "right_answer": "Stops the browser from loading a new page"
+  },
+
+  {
+    "title": "What is the purpose of the JavaScript 'querySelector()' method?",
+    "answer_1": "To select multiple elements",
+    "answer_2": "To select the first element that matches a CSS selector",
+    "answer_3": "To select elements by their tag name",
+    "answer_4": "To select elements by their class name",
+    "right_answer": "To select the first element that matches a CSS selector"
+  },
+
+  {
+    "title": "Which JavaScript statement is used to exit a loop prematurely?",
+    "answer_1": "continue",
+    "answer_2": "break",
+    "answer_3": "return",
+    "answer_4": "exit",
+    "right_answer": "break"
+  },
+
+  {
+    "title": "What does the 'typeof' operator in JavaScript do?",
+    "answer_1": "Returns the type of a variable",
+    "answer_2": "Declares a new variable",
+    "answer_3": "Checks if a variable is defined",
+    "answer_4": "Concatenates two variables",
+    "right_answer": "Returns the type of a variable"
+  },
+
+  {
+    "title": "How is an arrow function declared in JavaScript?",
+    "answer_1": "() => {}",
+    "answer_2": "function = () => {}",
+    "answer_3": "function() => {}",
+    "answer_4": "arrow() => {}",
+    "right_answer": "() => {}"
+  },
+
+  {
+    "title": "What is the purpose of the JavaScript 'splice()' method?",
+    "answer_1": "To add elements to an array",
+    "answer_2": "To remove elements from an array",
+    "answer_3": "To reverse the order of elements in an array",
+    "answer_4": "To concatenate two arrays",
+    "right_answer": "To add or remove elements from an array"
+  },
+
+  {
+    "title": "Which JavaScript object is used to represent a date and time?",
+    "answer_1": "Date",
+    "answer_2": "Time",
+    "answer_3": "DateTime",
+    "answer_4": "Clock",
+    "right_answer": "Date"
+  },
+
+  {
+    "title": "What does the 'JSON.stringify()' method do in JavaScript?",
+    "answer_1": "Parses a JSON string",
+    "answer_2": "Converts a JavaScript object to a JSON string",
+    "answer_3": "Decodes a base64-encoded string",
+    "answer_4": "Encodes a string in UTF-8",
+    "right_answer": "Converts a JavaScript object to a JSON string"
+  }
+]
